@@ -2,21 +2,29 @@
 
 Welcome to my Java learning journey 🚀
 
-This repository contains Java practice programs created while learning programming basics.
+This repository contains Java practice programs created while learning programming fundamentals and improving problem-solving skills.
 
 ## Programs Added
 - HelloWorld.java
 - EvenOdd.java
+- PrimeNumber.java
+- Factorial.java
+
+## Skills I'm Learning
+- Java Basics
+- Loops & Conditions
+- Problem Solving
+- GitHub Workflow
 
 ## Goals
-- Learn Java step by step
-- Improve coding skills
-- Practice daily programming
-- Build consistency
+- Improve Java programming skills
+- Practice coding consistently
+- Build strong programming fundamentals
+- Upload projects regularly on GitHub
 
 ## About Me
-👨‍💻 Beginner Java Learner  
-🚀 Exploring GitHub and Programming  
+👨‍💻 Diploma CSE Student  
+🚀 Learning Java, Web Development & GitHub  
 🔥 Future Software Developer
 
-Created by ByteBoss07
+Created by Rahul Singh (ByteBoss07)
